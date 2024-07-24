@@ -53,8 +53,6 @@ The response will be a JSON object containing the status of the email sending pr
 
 ```json
 {
-  "success": false,
-  {
     "success": false,
     "error": {
         "code": "EAUTH",
@@ -62,7 +60,6 @@ The response will be a JSON object containing the status of the email sending pr
         "responseCode": 535,
         "command": "AUTH PLAIN"
     }
-}
 }
 ```
 
