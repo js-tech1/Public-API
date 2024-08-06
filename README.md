@@ -147,6 +147,6 @@ curl -X POST https://js-tech1.com/api/user/publicmail \
   "message": "this is the subject mail"
 }'
 ```
-```html
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g1tq986KCrFXrA25" title="" frameBorder="0"   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"  allowFullScreen><br>Powered by <a href="https://youtubeembedcode.com">js-tech1</a> and <a href="https://howtostopgamstop.com/">js-tech1</a></iframe>
-```
+Watch the video below for a step-by-step guide on how to use the Send Public Email API:
+
+[![How to Use the Send Public Email API](https://img.youtube.com/vi/g1tq986KCrFXrA25/0.jpg)](https://www.youtube.com/watch?v=g1tq986KCrFXrA25)
