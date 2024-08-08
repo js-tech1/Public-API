@@ -148,4 +148,8 @@ curl -X POST https://js-tech1.com/api/user/publicmail \
 }'
 ```
 Watch the video below for a step-by-step guide on how to use the Send Public Email API:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zENRKjBcHGk?si=9802bEQvSCGfRMCM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+# My Project
+
+Check out this video on DDoS attacks:
+
+[![Watch the video](https://img.youtube.com/vi/zENRKjBcHGk/0.jpg)](https://www.youtube.com/watch?v=zENRKjBcHGk)
