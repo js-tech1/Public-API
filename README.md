@@ -148,5 +148,4 @@ curl -X POST https://js-tech1.com/api/user/publicmail \
 }'
 ```
 Watch the video below for a step-by-step guide on how to use the Send Public Email API:
-
-[![How to Use the Send Public Email API](https://themayanagari.com/wp-content/uploads/2021/01/4-10.jpg)](https://www.youtube.com/watch?v=g1tq986KCrFXrA25)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zENRKjBcHGk?si=9802bEQvSCGfRMCM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
